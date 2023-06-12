@@ -1,0 +1,14 @@
+.bg-image {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("img/arthur-humeau-Twd3yaqA2NM-unsplash.jpg");
+  height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-shadow: 2px 2px #000000;
+}
